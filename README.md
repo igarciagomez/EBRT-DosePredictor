@@ -301,7 +301,7 @@ A collapse detection system monitors for sudden DoseAcc drops (> 15 pp from best
 
 ## 👤 Authors
 
-- **Ibon Garcia Gomez** — Neural network surrogate, treatment optimizer, dataset consolidation
+- **Ibon Garcia Gomez** — Neural network surrogate, treatment optimizer, dataset consolidation, Monte Carlo simulation pipeline
   - GitHub: [@igarciagomez](https://github.com/igarciagomez)
   - Kaggle: [ibongarciagomez](https://www.kaggle.com/ibongarciagomez)
 
