@@ -1,0 +1,28 @@
+# EBRT-DL: Deep Learning Surrogate for External Beam Radiation Therapy
+# Requirements
+
+# Core deep learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Tensor manipulation
+einops>=0.6.0
+
+# Data I/O
+h5py>=3.8.0
+
+# Medical imaging
+SimpleITK>=2.2.0
+
+# Scientific computing
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Visualization
+matplotlib>=3.7.0
+
+# Progress bars
+tqdm>=4.65.0
+
+# Monte Carlo simulation (optional — only for data generation notebook)
+# opengate>=10.0  # Requires separate GEANT4 installation
