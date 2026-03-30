@@ -305,13 +305,13 @@ A collapse detection system monitors for sudden DoseAcc drops (> 15 pp from best
   - GitHub: [@igarciagomez](https://github.com/igarciagomez)
   - Kaggle: [ibongarciagomez](https://www.kaggle.com/ibongarciagomez)
 
-- **Asier Lopez Mantecon** — Monte Carlo simulation pipeline (co-author)
+- **Asier Lopez Mantecon** — Monte Carlo simulation pipeline (co-author) .
 
 ---
 
 ## 📄 License
 
-This project is licensed under the Apache License 2.0 — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0 — see the [LICENSE](LICENSE) file for details.[@asipowa](https://github.com/asipowa)
 
 ---
 
